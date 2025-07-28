@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard de Monitoramento</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="container mt-4" id="dashboardContainer">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <span class="badge badge-info">Status: Ativo</span>
+            <small id="lastUpdated" class="text-muted"><i class="fas fa-clock mr-1"></i> Última atualização: --</small>
+        </div>
+
+        <h2 class="text-center mb-4">Dashboard de Monitoramento de Sistema</h2>
+
+        <div class="row mb-2">
+            <div class="col-md-4">
+                <div class="card status-indicator">
+                    <div class="card-header bg-primary text-white">CPU</div>
+                    <div class="card-body">
+                        <div class="progress" style="height: 24px;">
+                            <div class="progress-bar" id="cpuBar" role="progressbar" style="width: 0%;">
+                                <span class="progress-text font-weight-bold">0%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card status-indicator">
+                    <div class="card-header bg-success text-white">Memória</div>
+                    <div class="card-body">
+                        <div class="progress" style="height: 24px;">
+                            <div class="progress-bar" id="ramBar" role="progressbar" style="width: 0%;">
+                                <span class="progress-text font-weight-bold">0%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card status-indicator">
+                    <div class="card-header bg-danger text-white">Disco</div>
+                    <div class="card-body">
+                        <div class="progress" style="height: 24px;">
+                            <div class="progress-bar" id="diskBar" role="progressbar" style="width: 0%;">
+                                <span class="progress-text font-weight-bold">0%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-md-6">
+                <canvas id="cpuChart" height="200"></canvas>
+            </div>
+            <div class="col-md-6">
+                <canvas id="ramChart" height="200"></canvas>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-md-6">
+                <canvas id="diskChart" height="200"></canvas>
+            </div>
+            <div class="col-md-6">
+                <canvas id="tempChart" height="200"></canvas>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

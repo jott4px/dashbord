@@ -1,0 +1,965 @@
+[
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":0.0,
+         "CPU Core #1":0.0,
+         "CPU Core #2":0.0,
+         "CPU Package":0.0,
+         "Core Average":0.0,
+         "CPU Core #1 Distance to TjMax":0.0,
+         "CPU Core #2 Distance to TjMax":0.0
+      },
+      "cpu_percent":38.4,
+      "ram_percent":57.7,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5178.0
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":43.0,
+         "GPU Core":25.0,
+         "CPU Core #1":34.0,
+         "CPU Core #2":43.0,
+         "CPU Package":43.0,
+         "Temperature":29.0,
+         "Core Average":38.5,
+         "GPU Hot Spot":34.3,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":39.0,
+         "Temperature #4":83.0,
+         "Temperature #5":31.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":66.0,
+         "CPU Core #2 Distance to TjMax":57.0
+      },
+      "cpu_percent":31.9,
+      "ram_percent":58.6,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.0,
+      "ram_available_mb":5072.9
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":44.0,
+         "GPU Core":25.0,
+         "CPU Core #1":37.0,
+         "CPU Core #2":44.0,
+         "CPU Package":44.0,
+         "Temperature":29.0,
+         "Core Average":40.5,
+         "GPU Hot Spot":34.5,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":39.0,
+         "Temperature #4":83.0,
+         "Temperature #5":31.0,
+         "Temperature #6":31.0,
+         "CPU Core #1 Distance to TjMax":63.0,
+         "CPU Core #2 Distance to TjMax":56.0
+      },
+      "cpu_percent":32.6,
+      "ram_percent":58.6,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":4.9,
+      "ram_available_mb":5064.9
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":44.0,
+         "GPU Core":25.0,
+         "CPU Core #1":41.0,
+         "CPU Core #2":44.0,
+         "CPU Package":44.0,
+         "Temperature":29.0,
+         "Core Average":42.5,
+         "GPU Hot Spot":34.6,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":39.0,
+         "Temperature #4":83.0,
+         "Temperature #5":31.0,
+         "Temperature #6":31.0,
+         "CPU Core #1 Distance to TjMax":59.0,
+         "CPU Core #2 Distance to TjMax":56.0
+      },
+      "cpu_percent":31.5,
+      "ram_percent":58.3,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.0,
+      "ram_available_mb":5111.0
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":35.0,
+         "GPU Core":25.0,
+         "CPU Core #1":32.0,
+         "CPU Core #2":35.0,
+         "CPU Package":35.0,
+         "Temperature":29.0,
+         "Core Average":33.5,
+         "GPU Hot Spot":34.4,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":32.0,
+         "Temperature #4":83.0,
+         "Temperature #5":30.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":68.0,
+         "CPU Core #2 Distance to TjMax":65.0
+      },
+      "cpu_percent":1.6,
+      "ram_percent":58.7,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":4.9,
+      "ram_available_mb":5052.5
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":38.0,
+         "GPU Core":25.0,
+         "CPU Core #1":38.0,
+         "CPU Core #2":33.0,
+         "CPU Package":38.0,
+         "Temperature":28.0,
+         "Core Average":35.5,
+         "GPU Hot Spot":34.4,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":32.0,
+         "Temperature #4":83.0,
+         "Temperature #5":30.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":62.0,
+         "CPU Core #2 Distance to TjMax":67.0
+      },
+      "cpu_percent":1.6,
+      "ram_percent":58.1,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.0,
+      "ram_available_mb":5126.4
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":39.0,
+         "GPU Core":25.0,
+         "CPU Core #1":32.0,
+         "CPU Core #2":39.0,
+         "CPU Package":39.0,
+         "Temperature":28.0,
+         "Core Average":35.5,
+         "GPU Hot Spot":34.4,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":32.0,
+         "Temperature #4":83.0,
+         "Temperature #5":30.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":68.0,
+         "CPU Core #2 Distance to TjMax":61.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.5,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5198.9
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":32.0,
+         "GPU Core":25.0,
+         "CPU Core #1":31.0,
+         "CPU Core #2":32.0,
+         "CPU Package":32.0,
+         "Temperature":28.0,
+         "Core Average":31.5,
+         "GPU Hot Spot":34.1,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":30.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":69.0,
+         "CPU Core #2 Distance to TjMax":68.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.5,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5200.6
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":37.0,
+         "GPU Core":24.0,
+         "CPU Core #1":37.0,
+         "CPU Core #2":32.0,
+         "CPU Package":37.0,
+         "Temperature":28.0,
+         "Core Average":34.5,
+         "GPU Hot Spot":33.9,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":63.0,
+         "CPU Core #2 Distance to TjMax":68.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.6,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5191.0
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":45.0,
+         "GPU Core":25.0,
+         "CPU Core #1":45.0,
+         "CPU Core #2":33.0,
+         "CPU Package":45.0,
+         "Temperature":28.0,
+         "Core Average":39.0,
+         "GPU Hot Spot":34.2,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":40.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":55.0,
+         "CPU Core #2 Distance to TjMax":67.0
+      },
+      "cpu_percent":21.7,
+      "ram_percent":57.6,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5198.3
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":37.0,
+         "GPU Core":25.0,
+         "CPU Core #1":37.0,
+         "CPU Core #2":32.0,
+         "CPU Package":37.0,
+         "Temperature":28.0,
+         "Core Average":34.5,
+         "GPU Hot Spot":34.1,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":63.0,
+         "CPU Core #2 Distance to TjMax":68.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.3,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5223.4
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":37.0,
+         "GPU Core":25.0,
+         "CPU Core #1":37.0,
+         "CPU Core #2":31.0,
+         "CPU Package":37.0,
+         "Temperature":28.0,
+         "Core Average":34.0,
+         "GPU Hot Spot":34.0,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":63.0,
+         "CPU Core #2 Distance to TjMax":69.0
+      },
+      "cpu_percent":1.2,
+      "ram_percent":57.2,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5236.5
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":36.0,
+         "GPU Core":25.0,
+         "CPU Core #1":36.0,
+         "CPU Core #2":32.0,
+         "CPU Package":36.0,
+         "Temperature":28.0,
+         "Core Average":34.0,
+         "GPU Hot Spot":34.0,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":64.0,
+         "CPU Core #2 Distance to TjMax":68.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.3,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5234.4
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":32.0,
+         "GPU Core":25.0,
+         "CPU Core #1":31.0,
+         "CPU Core #2":32.0,
+         "CPU Package":32.0,
+         "Temperature":28.0,
+         "Core Average":31.5,
+         "GPU Hot Spot":34.1,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":69.0,
+         "CPU Core #2 Distance to TjMax":68.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.2,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5239.6
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":39.0,
+         "GPU Core":25.0,
+         "CPU Core #1":31.0,
+         "CPU Core #2":39.0,
+         "CPU Package":39.0,
+         "Temperature":28.0,
+         "Core Average":35.0,
+         "GPU Hot Spot":34.1,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":69.0,
+         "CPU Core #2 Distance to TjMax":61.0
+      },
+      "cpu_percent":1.6,
+      "ram_percent":57.3,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5232.2
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":39.0,
+         "GPU Core":25.0,
+         "CPU Core #1":30.0,
+         "CPU Core #2":39.0,
+         "CPU Package":39.0,
+         "Temperature":28.0,
+         "Core Average":34.5,
+         "GPU Hot Spot":34.0,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":70.0,
+         "CPU Core #2 Distance to TjMax":61.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.3,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5228.1
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":44.0,
+         "GPU Core":25.0,
+         "CPU Core #1":38.0,
+         "CPU Core #2":44.0,
+         "CPU Package":44.0,
+         "Temperature":28.0,
+         "Core Average":41.0,
+         "GPU Hot Spot":34.0,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":40.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":62.0,
+         "CPU Core #2 Distance to TjMax":56.0
+      },
+      "cpu_percent":35.7,
+      "ram_percent":57.3,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5233.4
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":39.0,
+         "GPU Core":24.0,
+         "CPU Core #1":39.0,
+         "CPU Core #2":34.0,
+         "CPU Package":39.0,
+         "Temperature":28.0,
+         "Core Average":36.5,
+         "GPU Hot Spot":33.9,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":42.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":61.0,
+         "CPU Core #2 Distance to TjMax":66.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.2,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5241.0
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":37.0,
+         "GPU Core":25.0,
+         "CPU Core #1":37.0,
+         "CPU Core #2":32.0,
+         "CPU Package":37.0,
+         "Temperature":28.0,
+         "Core Average":34.5,
+         "GPU Hot Spot":34.1,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":32.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":29.0,
+         "CPU Core #1 Distance to TjMax":63.0,
+         "CPU Core #2 Distance to TjMax":68.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":57.2,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5246.2
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":39.0,
+         "GPU Core":25.0,
+         "CPU Core #1":32.0,
+         "CPU Core #2":39.0,
+         "CPU Package":39.0,
+         "Temperature":28.0,
+         "Core Average":35.5,
+         "GPU Hot Spot":34.0,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":31.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":68.0,
+         "CPU Core #2 Distance to TjMax":61.0
+      },
+      "cpu_percent":0.4,
+      "ram_percent":57.5,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5198.8
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":40.0,
+         "GPU Core":25.0,
+         "CPU Core #1":32.0,
+         "CPU Core #2":40.0,
+         "CPU Package":40.0,
+         "Temperature":28.0,
+         "Core Average":36.0,
+         "GPU Hot Spot":34.3,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":32.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":68.0,
+         "CPU Core #2 Distance to TjMax":60.0
+      },
+      "cpu_percent":5.1,
+      "ram_percent":57.6,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5188.2
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":34.0,
+         "GPU Core":25.0,
+         "CPU Core #1":32.0,
+         "CPU Core #2":34.0,
+         "CPU Package":34.0,
+         "Temperature":28.0,
+         "Core Average":33.0,
+         "GPU Hot Spot":34.2,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":43.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":68.0,
+         "CPU Core #2 Distance to TjMax":66.0
+      },
+      "cpu_percent":7.0,
+      "ram_percent":57.5,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5203.2
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":34.0,
+         "GPU Core":25.0,
+         "CPU Core #1":32.0,
+         "CPU Core #2":34.0,
+         "CPU Package":34.0,
+         "Temperature":28.0,
+         "Core Average":33.0,
+         "GPU Hot Spot":34.1,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":32.0,
+         "Temperature #4":83.0,
+         "Temperature #5":29.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":68.0,
+         "CPU Core #2 Distance to TjMax":66.0
+      },
+      "cpu_percent":1.6,
+      "ram_percent":57.5,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.1,
+      "ram_available_mb":5202.7
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":36.0,
+         "GPU Core":25.0,
+         "CPU Core #1":35.0,
+         "CPU Core #2":36.0,
+         "CPU Package":36.0,
+         "Temperature":28.0,
+         "Core Average":35.5,
+         "GPU Hot Spot":34.5,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":40.0,
+         "Temperature #4":83.0,
+         "Temperature #5":30.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":65.0,
+         "CPU Core #2 Distance to TjMax":64.0
+      },
+      "cpu_percent":31.1,
+      "ram_percent":58.2,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.0,
+      "ram_available_mb":5116.3
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":41.0,
+         "GPU Core":25.0,
+         "CPU Core #1":41.0,
+         "CPU Core #2":38.0,
+         "CPU Package":41.0,
+         "Temperature":28.0,
+         "Core Average":39.5,
+         "GPU Hot Spot":34.7,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":40.0,
+         "Temperature #4":83.0,
+         "Temperature #5":30.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":59.0,
+         "CPU Core #2 Distance to TjMax":62.0
+      },
+      "cpu_percent":30.6,
+      "ram_percent":56.9,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.2,
+      "ram_available_mb":5278.2
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":35.0,
+         "GPU Core":25.0,
+         "CPU Core #1":33.0,
+         "CPU Core #2":35.0,
+         "CPU Package":35.0,
+         "Temperature":28.0,
+         "Core Average":34.0,
+         "GPU Hot Spot":34.4,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":34.0,
+         "Temperature #4":83.0,
+         "Temperature #5":30.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":67.0,
+         "CPU Core #2 Distance to TjMax":65.0
+      },
+      "cpu_percent":3.9,
+      "ram_percent":56.4,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.2,
+      "ram_available_mb":5336.3
+   },
+   {
+      "gpus":[
+         
+      ],
+      "disco":{
+         "disk_free_gb":733.1,
+         "disk_percent":21.2,
+         "disk_total_gb":930.9
+      },
+      "cpu_temp":{
+         "Core Max":35.0,
+         "GPU Core":25.0,
+         "CPU Core #1":35.0,
+         "CPU Core #2":34.0,
+         "CPU Package":35.0,
+         "Temperature":28.0,
+         "Core Average":34.5,
+         "GPU Hot Spot":34.2,
+         "Temperature #1":27.0,
+         "Temperature #2":34.0,
+         "Temperature #3":33.0,
+         "Temperature #4":83.0,
+         "Temperature #5":30.0,
+         "Temperature #6":30.0,
+         "CPU Core #1 Distance to TjMax":65.0,
+         "CPU Core #2 Distance to TjMax":66.0
+      },
+      "cpu_percent":0.8,
+      "ram_percent":56.7,
+      "placa_mae_temps":{
+         "ACPI\\ThermalZone\\TZ00_0":27.9,
+         "ACPI\\ThermalZone\\TZ01_0":29.9
+      },
+      "ram_available_gb":5.2,
+      "ram_available_mb":5308.9
+   }
+]
