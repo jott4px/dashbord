@@ -43,3 +43,32 @@ fetch('data.json')
     document.getElementById('lastUpdated').innerText = 'Última atualização: ' + new Date().toLocaleString();
     document.querySelector('#cpuBar .progress-text').textContent = cpuUsage + '%';
   });
+
+function toggleTheme() {
+  const body = document.body;
+  const btn = document.getElementById('themeToggleBtn');
+  body.classList.toggle('dark-theme');
+
+  if (body.classList.contains('dark-theme')) {
+    btn.textContent = '🌙'; 
+    localStorage.setItem('theme', 'dark');
+  } else {
+    btn.textContent = '☀️'; 
+    localStorage.setItem('theme', 'light');
+  }
+}
+
+
+window.addEventListener('DOMContentLoaded', () => {
+  const savedTheme = localStorage.getItem('theme');
+  const btn = document.getElementById('themeToggleBtn');
+
+  if (savedTheme === 'dark') {
+    document.body.classList.add('dark-theme');
+    btn.textContent = '🌙';
+  } else {
+    btn.textContent = '☀️';
+  }
+
+  btn.addEventListener('click', toggleTheme);
+});

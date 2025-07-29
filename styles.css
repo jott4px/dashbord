@@ -1,0 +1,48 @@
+
+body {
+    background-color: #f8f9fa;
+}
+
+.card.status-indicator {
+    margin-bottom: 10px;
+}
+
+.progress-bar {
+    transition: width 0.5s ease-in-out;
+}
+
+.progress-text {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+body.dark-theme {
+  background-color: #262626; 
+  color: #e0e0e0;
+}
+
+body.dark-theme .card {
+  background-color: #1f1f1f; 
+  color: #e0e0e0;
+}
+
+body.dark-theme .progress-bar {
+  background-color: #888; 
+}
+
+body.dark-theme .badge-info {
+  background-color: #444; 
+}
+
+body.dark-theme .btn-outline-secondary {
+  color: #e0e0e0;
+  border-color: #e0e0e0;
+}
+
+body.dark-theme .btn-outline-secondary:hover {
+  background-color: #555;
+  border-color: #555;
+  color: #262626;
+}
